@@ -1,0 +1,7 @@
+{
+  "name": "jcertiflab-slides",
+  "version": "0.0.0",
+  "dependencies": {
+    "ruban": "~0.2.1"
+  }
+}
